@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Hey there, thanks for visiting my ✨ _special_ ✨ profile.
 
 Here are some ideas to get you started:
